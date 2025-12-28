@@ -224,7 +224,7 @@ If this tool saved you time or helped secure your network:
 1. ⭐ Star this repository - It helps others find it
 2. 🐦 Share on Twitter - Spread the word
 3. 💬 Discuss improvements - Join the conversation
-4. ☕ Buy me a coffee - [Support Link]
+4. [☕ Buy me a coffee](https://ko-fi.com/aizdb)
 
 ## 📄 License
 
