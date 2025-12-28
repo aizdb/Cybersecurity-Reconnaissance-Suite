@@ -1,6 +1,3 @@
-python
-#!/usr/bin/env python3
-
 import nmap
 import socket
 import concurrent.futures
