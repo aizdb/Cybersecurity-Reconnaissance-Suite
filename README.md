@@ -153,9 +153,9 @@ class VulnerabilityScanner:
         pass
 ```
 
-⚠️ Legal & Ethical Usage
+## ⚠️ Legal & Ethical Usage
 
-🚨 IMPORTANT DISCLAIMER
+ 🚨 IMPORTANT DISCLAIMER
 
 This tool is designed for:
 
