@@ -23,7 +23,7 @@ A powerful, all-in-one Python reconnaissance tool designed for ethical hackers, 
 
 ### **One-Line Installation**
 ```bash
-git clone https://github.com/yourusername/Cybersecurity-Reconnaissance-Suite.git && cd Cybersecurity-Reconnaissance-Suite && pip install -r requirements.txt
+git clone https://github.com/aizdb/Cybersecurity-Reconnaissance-Suite.git && cd Cybersecurity-Reconnaissance-Suite && pip install -r requirements.txt
 ```
 
 Instant Scan
@@ -71,14 +71,14 @@ Option A: Quick Install (Recommended)
 
 ```bash
 # Clone and setup in one command
-bash <(curl -s https://raw.githubusercontent.com/yourusername/Cybersecurity-Reconnaissance-Suite/main/setup.sh)
+bash <(curl -s https://raw.githubusercontent.com/aizdb/Cybersecurity-Reconnaissance-Suite/main/setup.sh)
 ```
 
 Option B: Manual Setup
 
 ```bash
 # Step 1: Clone repository
-git clone https://github.com/yourusername/Cybersecurity-Reconnaissance-Suite.git
+git clone https://github.com/aizdb/Cybersecurity-Reconnaissance-Suite.git
 
 # Step 2: Navigate to directory
 cd Cybersecurity-Reconnaissance-Suite
@@ -186,7 +186,7 @@ Development Setup
 
 ```bash
 # Fork and clone
-git clone https://github.com/yourusername/Cybersecurity-Reconnaissance-Suite.git
+git clone https://github.com/aizdb/Cybersecurity-Reconnaissance-Suite.git
 
 # Create virtual environment
 python -m venv venv
@@ -196,14 +196,14 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements-dev.txt
 ```
 
-📊 Benchmarks
+## 📊 Benchmarks
 
 Task Time (Average) Success Rate
 1000 Port Scan 25 seconds 99.8%
 500 Subdomains 12 seconds 100%
 Full Network Audit < 2 minutes 98.5%
 
-🧩 Related Projects
+## 🧩 Related Projects
 
 Check out our other security tools:
 
@@ -211,13 +211,13 @@ Check out our other security tools:
 · Vulnerability Database - CVE lookup and analysis
 · Security Dashboard - Real-time monitoring
 
-📚 Learning Resources
+## 📚 Learning Resources
 
 · Nmap Official Documentation
 · OWASP Testing Guide
 · Penetration Testing Execution Standard
 
-🏆 Support the Project
+## 🏆 Support the Project
 
 If this tool saved you time or helped secure your network:
 
@@ -226,7 +226,7 @@ If this tool saved you time or helped secure your network:
 3. 💬 Discuss improvements - Join the conversation
 4. ☕ Buy me a coffee - [Support Link]
 
-📄 License
+## 📄 License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
